@@ -1297,7 +1297,7 @@ margin-top: 130px;
 }
 
 
-@media (max-width: 475px)
+@media (max-width: 500px)
 
 /* Index */
 
@@ -1314,6 +1314,7 @@ margin-top: 130px;
   line-height: 25px;
   width: 90%;
 }
+
 
 #registration .remainder .time .date{
   padding: 10px;
@@ -1344,6 +1345,7 @@ margin-top: 130px;
 }
 #experts .profile .image{
 width: 90%;
+
 }
 
 #experts .profile h6{
